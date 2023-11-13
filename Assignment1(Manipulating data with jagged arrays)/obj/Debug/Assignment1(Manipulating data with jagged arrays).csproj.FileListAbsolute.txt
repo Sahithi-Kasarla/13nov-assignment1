@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\bin\Debug\Assignment1(Manipulating data with jagged arrays).exe.config
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\bin\Debug\Assignment1(Manipulating data with jagged arrays).exe
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\bin\Debug\Assignment1(Manipulating data with jagged arrays).pdb
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\obj\Debug\Assignment1(Manipulating data with jagged arrays).csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\obj\Debug\Assignment1(Manipulating data with jagged arrays).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\obj\Debug\Assignment1(Manipulating data with jagged arrays).exe
+C:\Users\Dell\source\Day 6\Assignment1(Manipulating data with jagged arrays)\Assignment1(Manipulating data with jagged arrays)\obj\Debug\Assignment1(Manipulating data with jagged arrays).pdb
